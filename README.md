@@ -19,7 +19,7 @@ A command-line based expense tracker built using Python.
 
 ## Screenshot
 
-![App Screenshot](Screenshot 1.png)
+![App Screenshot](Screenshot_1.png)
 
 ## Author
 Arjun Rajaram
